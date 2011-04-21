@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: post
 title: Haklab Beograd Home Page
 
 ---
