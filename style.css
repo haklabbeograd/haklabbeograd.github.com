@@ -1,11 +1,18 @@
 
+body {
+  margin: 0;
+  padding: 0;
+  color: #333333;
+}
+
 #container {
   width: 40em;
   text-align: justify;
-  margin: 2em, auto;
+  margin: 2em auto;
   font-family: Helvetica, "DejaVu Sans", Arial, sans-serif; 
 }
 
 h1, h2, h3 {
   font-family: Garamond, "DejaVu Serif", Georgia, serif;
+  color: #004400;
 }
