@@ -5,7 +5,7 @@ body {
   color: #333333;
 }
 
-#container {
+#container, #disqus_thread {
   width: 40em;
   text-align: justify;
   margin: 2em auto;
