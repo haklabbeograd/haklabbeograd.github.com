@@ -1,0 +1,13 @@
+
+
+== title ==
+
+Cini mi se da su neke osnovne opste celine sledece:
+
+* Elektronika (mikrokontroleri, lemljenje, te stvari :))
+* Gadgets / Mods (budzenje, rutovanje, clever hacks sa postojecim hardveom... )
+* Lang Gang (ucenje jezika, pisanje programa, foss contributing)
+* Administracija (igranje sa postojecim software-om)
+
+Naravno, preklapanja ima i treba da bude.
+
