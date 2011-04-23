@@ -5,4 +5,5 @@ layout: default
 
  Elektronika
 
+test ling [lang_gang](/lang_gang)
 
