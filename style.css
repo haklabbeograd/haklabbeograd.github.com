@@ -5,6 +5,13 @@ body {
   color: #333333;
 }
 
+#header {
+  width: 40em;
+  text-align: justify;
+  margin: 2em auto;
+  font-family: Helvetica, "DejaVu Sans", Arial, sans-serif; 
+}
+
 #container, #disqus_thread {
   width: 40em;
   text-align: justify;
