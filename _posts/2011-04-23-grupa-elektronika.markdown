@@ -2,8 +2,7 @@
 
 layout: post
 title: Grupa elektronika
-category:
-- elektronika
+category: elektronika
 ---
 
 post u categoriji elektronika, 
