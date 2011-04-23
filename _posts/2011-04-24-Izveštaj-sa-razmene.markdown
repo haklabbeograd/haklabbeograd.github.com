@@ -14,3 +14,5 @@ Ideja je da se malo uozbiljimo, kako bi nam bilo zanimljivije (!?), pa možemo d
 
 
 Pre toga su potrebni razgovori/dogovori sa czkd-om, i to što pre (pre nego nas popusti entuzijazam nsnd-a).
+
+btw. Mnogo je čudno ostati na istom mestu nakon razmene.
