@@ -1,1 +1,8 @@
 pygments: true
+markdown: rdiscount
+lsi: true
+// exclude: ['README.markdown', 'README_FOR_COLLABORATORS.markdown', 'Gemfile.lock', 'Gemfile']
+production: false
+//add this line to add pagination
+// paginate: 3 //the number of post per page
+
