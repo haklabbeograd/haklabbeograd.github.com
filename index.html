@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% for post in site.posts limit:5 %}
-  <div id="content-item">
+  <div class="content-item">
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
     <div class="postdate"><em>Posted on {{ post.date | date_to_long_string }}.</em></div>
     <p>
