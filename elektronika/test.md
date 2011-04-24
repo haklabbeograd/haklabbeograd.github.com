@@ -4,5 +4,3 @@ layout: default
 ---
 
 test Elektronika
-
-

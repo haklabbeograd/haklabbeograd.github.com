@@ -4,7 +4,3 @@ layout: default
 ---
 
 Ovo stoji na grupnom pageu.
-
-
-
-

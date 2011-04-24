@@ -3,8 +3,6 @@ title: Grupa elektronika
 layout: default
 ---
 
-markdown....
-
 {% for post in site.categories.elektronika limit:5 %}
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
     <p>
