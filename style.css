@@ -29,7 +29,7 @@ body {
 
 /* header */
 #header {
-	height:65px;
+	height:70px;
 	margin:10px auto;
 	width:751px;
 }
@@ -43,7 +43,7 @@ body {
 }
 #header h1 a {
   color: #000000;
-  font-size: 0.9em;
+  font-size: 0.8em;
 }
 #header h2 {
 	color:#CCC;
