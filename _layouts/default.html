@@ -1,24 +1,39 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+	Plain and Simple by christopher robinson
+	http://www.edg3.co.uk/
+	hope you enjoy it and find it usefull :)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/style.css" type="text/css" />
     <link href="http://haklabbeograd.github.com/atom.xml" rel="alternate" title="Haklab Beograd" type="application/atom+xml" />
   </head>
-
   <body>
-
-<a href="http://github.com/haklabbeograd"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_left_orange_ff7600.png" alt="Fork me on GitHub" /></a>
-
-	<div id="header">
-		<a href="/">Naslovna</a> Grupe: <a href="/elektronika">elektronika</a> <a href="/gadgets">gadgets</a> <a href="/lang_gang">lang_gang</a> <a href="/mods">mods</a> <a href="/ostalo">ostalo</a>
-
-	</div>
-    <div id="container">
-    <h1>{{ page.title }}</h1>
-
-    {{ content }}
+    <div id="header">
+      <a href="http://github.com/haklabbeograd"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://d3nwyuy0nl342s.cloudfront.net/img/ce742187c818c67d98af16f96ed21c00160c234a/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f677261795f3664366436642e706e67" alt="Fork me on GitHub"></a>
+      <h1>Haklab Beograd</h1>
+      <!--<h2></h2>-->
+    </div>
+    <div id="navigation">
+      <ul>
+        <li><a href="/">Naslovna</a></li>
+        <li><a href="/elektronika">elektronika</a></li>
+        <li><a href="/gadgets">gadgets</a></li>
+        <li><a href="/lang_gang">lang_gang</a></li>
+        <li><a href="/mods">mods</a></li>
+        <li><a href="/ostalo">ostalo</a></li>
+      </ul>
+    </div>
+    <div id="content">
+      <h1>{{ page.title }}</h1>
+      <p>{{ content }}</p>
+    </div>
+    <div id="footer">
+      <p>WTFPL:  <a href="https://secure.wikimedia.org/wikipedia/en/wiki/WTFPL">Do What The Fuck You Want To Public License</a></p>
     </div>
   </body>
 </html>

@@ -3,7 +3,7 @@ title: Izveštaj Sa Razmene
 layout: post
 ---
 
-Ideja je da se malo uozbiljimo, kako bi nam bilo zanimljivije (!?), pa možemo da počenmo od nabrajanja obrađenih tema
+Ideja je da se malo uozbiljimo, kako bi nam bilo zanimljivije (!?), pa možemo da počnemo od nabrajanja obrađenih tema
 
 - nismo uspeli da uhakujemo htc legend
 - [http://en.wikipedia.org/wiki/File_Allocation_Table](http://en.wikipedia.org/wiki/File_Allocation_Table)

@@ -1,8 +1,6 @@
 ---
-
 layout: post
 title: Kružoci
-
 ---
 
 == title ==
@@ -15,4 +13,3 @@ Cini mi se da su neke osnovne opste celine sledece:
 * Administracija (igranje sa postojecim software-om)
 
 Naravno, preklapanja ima i treba da bude.
-
