@@ -105,3 +105,8 @@ body {
 	text-align:center;
 	width:751px;
 }
+
+ul {
+       margin-left: 20px;
+       padding-left: 20px;
+}
