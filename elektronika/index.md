@@ -3,8 +3,12 @@ title: Grupa elektronika
 layout: default
 ---
 
+markdown....
+
 {% for post in site.categories.elektronika limit:5 %}
-      <a href="{{ post.url }}">{{ post.title }}</a>
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <p>
       {{ post.content }}
       <em>Posted on {{ post.date | date_to_long_string }}.</em>
+    </p>
 {% endfor %}
