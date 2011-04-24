@@ -29,9 +29,8 @@ body {
 
 /* header */
 #header {
-	border-bottom:1px solid #999;
-	height:80px;
-	margin:0 auto;
+	height:65px;
+	margin:10px auto;
 	width:751px;
 }
 #header h1 {
@@ -52,14 +51,12 @@ body {
 /* navigation */
 #navigation {
 	background:#fafafa;
-	border-right:1px solid #999;
 	margin:0 auto;
 	width:750px;
-	height:50px;
+	height:70px;
 	list-style:none;
 }
 #navigation li {
-	border-left:1px solid #999;
 	float:left;
 	width:124px;
 	list-style:none;
@@ -67,7 +64,7 @@ body {
 #navigation a {
 	color:#555;
 	display:block;
-	line-height:50px;
+	line-height:25px;
 	text-align:center;
 }
 #navigation a:hover {
@@ -97,11 +94,10 @@ body {
 
 /* footer */
 #footer {
-	border-top:1px solid #999; 
-	font-size:1.2em;
+	font-size:1em;
 	height:50px;
 	margin:0 auto;
 	padding:10px;
 	text-align:center;
-	width:751px;
+	width:500px;
 }
