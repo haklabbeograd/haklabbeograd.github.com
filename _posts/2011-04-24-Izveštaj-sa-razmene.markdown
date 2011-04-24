@@ -1,3 +1,8 @@
+---
+title: Izveštaj Sa Razmene
+layout: post
+---
+
 Ideja je da se malo uozbiljimo, kako bi nam bilo zanimljivije (!?), pa možemo da počenmo od nabrajanja obrađenih tema
 
 - nismo uspeli da uhakujemo htc legend
