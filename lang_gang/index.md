@@ -1,5 +1,5 @@
 ---
-title: Grupa lang_gang
+title: Grupa lang gang
 layout: default
 ---
 
