@@ -4,7 +4,7 @@ layout: default
 ---
 
 {% for post in site.categories.elektronika limit:5 %}
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    *<a href="{{ post.url }}">{{ post.title }}</a>*
     <p>
       {{ post.content }}
       <em>Posted on {{ post.date | date_to_long_string }}.</em>
