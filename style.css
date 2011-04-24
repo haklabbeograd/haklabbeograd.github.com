@@ -113,7 +113,7 @@ body {
   margin: 20px 0;
 }
 
-.content-item ul {
+.content-item ul, .post ul {
   margin-left: 20px;
   padding-left: 20px;
 }
