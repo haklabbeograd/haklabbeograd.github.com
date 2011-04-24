@@ -20,6 +20,11 @@ a:hover {
 	text-decoration:none;
 }
 
+ul {
+  margin-left: 20px;
+  padding-left: 20px;
+}
+
 /* body */
 body {
 	background:#fafafa;
@@ -112,4 +117,3 @@ body {
 .content-item {
   margin: 20px 0;
 }
-
