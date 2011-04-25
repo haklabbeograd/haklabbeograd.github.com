@@ -3,8 +3,6 @@ layout: post
 title: Kružoci
 ---
 
-== title ==
-
 Cini mi se da su neke osnovne opste celine sledece:
 
 * Elektronika (mikrokontroleri, lemljenje, te stvari :))
