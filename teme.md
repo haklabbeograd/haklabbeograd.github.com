@@ -16,4 +16,5 @@ Ostalo:
 * Vim
 * Zsh
 * XMonad
+* Ekonomski modeli
 
