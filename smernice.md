@@ -3,7 +3,7 @@ title: Smernice Haklab Beograd zajednice
 layout: default
 ---
 
-Konteplirajući o najboljem načinu predstavljanja duha naših okupljanja nekako sam primetio dozu sličnosti sa navedenim [setom pravila](http://diggingforfire.net/FightClub/). S tim u vezi nekoliko smernica
+Kontemplirajući o najboljem načinu predstavljanja duha naših okupljanja nekako sam primetio dozu sličnosti sa navedenim [setom pravila](http://diggingforfire.net/FightClub/). S tim u vezi nekoliko smernica
 
 1. Tema moze biti bilo sta sto se može podvesti pod znanje, stvaranje i lično usavršavanje.
 1. Prvi put se tema može predložiti samo na okupljanju, posle toga može i preko mailing liste.
