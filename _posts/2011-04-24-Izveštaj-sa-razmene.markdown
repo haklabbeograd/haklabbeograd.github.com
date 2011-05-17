@@ -8,7 +8,6 @@ Ideja je da se malo uozbiljimo, kako bi nam bilo zanimljivije (!?), pa možemo d
 - nismo uspeli da uhakujemo htc legend
 - [http://en.wikipedia.org/wiki/File_Allocation_Table](http://en.wikipedia.org/wiki/File_Allocation_Table)
 - bila je neka utakmica u gradu
-- marcell nam je prodao priču o czkd-u (ponovo)
 - ako vam treba programski jezik koji možete da pitate koliko čaša jogurta stane u kašičicu benzina: [http://futureboy.us/frinkdocs/](http://futureboy.us/frinkdocs/)
 - komande: *rev*, *seq*, i *test* tj.
 - Bitcoin interesuje samo nas i kriminalce i slabo je kome jasan: - [http://en.wikipedia.org/wiki/Bitcoin](http://en.wikipedia.org/wiki/Bitcoin)
