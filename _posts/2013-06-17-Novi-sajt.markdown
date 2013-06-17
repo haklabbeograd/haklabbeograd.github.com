@@ -3,4 +3,4 @@ title: Nova adresa sajta
 layout: post
 ---
 
-(http://oosm.org)[http://oosm.org]
+[http://oosm.org](http://oosm.org)
